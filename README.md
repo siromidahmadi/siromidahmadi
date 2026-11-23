@@ -67,12 +67,22 @@ CI/CD, Excel Automation, Manual Testing, Hardware/Software Validation
 
 End-to-end Postman suite that registers a fresh training crew, exercises mission log creation, updates, and deletion, and verifies splashdown. The live run passed 16 assertions across 10 API requests.
 
+[![16 assertions passed](https://img.shields.io/badge/assertions-16%20passed-brightgreen)](https://github.com/siromidahmadi/artemis-mission-control-api-testing#verified-result)
+
+**My contribution** · Built the Postman integration suite and JavaScript assertions.
+
+[Run the test suite](https://github.com/siromidahmadi/artemis-mission-control-api-testing#run-the-suite)
+
 **Planned badges**
 ![CI run planned](https://img.shields.io/badge/CI%20run-planned-blue) ![Schema checks planned](https://img.shields.io/badge/Schema%20checks-planned-orange)
 
 ### 💻 [Employee Directory App](https://github.com/siromidahmadi/employee-directory-app)
 
 JavaScript employee directory with search and department filtering.
+
+**My contribution** · Guided the LA Tech Rising interns who built the directory.
+
+[View the live demo](https://siromidahmadi.github.io/employee-directory-app/index.html#directory) · [See search and filtering](https://github.com/siromidahmadi/employee-directory-app#directory-preview)
 
 **Planned badges**
 ![UI smoke tests planned](https://img.shields.io/badge/UI%20smoke%20tests-planned-blue) ![Accessibility checks planned](https://img.shields.io/badge/Accessibility%20checks-planned-purple)
