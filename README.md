@@ -80,7 +80,9 @@ End-to-end Postman suite that registers a fresh training crew, exercises mission
 
 JavaScript employee directory with search and department filtering.
 
-**My contribution** · Guided the LA Tech Rising interns who built the directory.
+**My contribution** · Served as Project Advisor for a team of five LA Tech Rising interns during the 12-week Fall 2026 internship. I guided the team as they built the Employee Directory App. They presented their work at Demo Day and received awards at the end of the program.
+
+Congratulations to the interns on their work, and thank you to the LA Tech team and the Los Angeles County Department of Economic Opportunity for supporting the cohort.
 
 [View the live demo](https://siromidahmadi.github.io/employee-directory-app/index.html#directory) · [See search and filtering](https://github.com/siromidahmadi/employee-directory-app#directory-preview)
 
