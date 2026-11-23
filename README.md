@@ -73,6 +73,10 @@ SignalSaver helps keep viewers watching by switching from satellite broadcast to
 
 **My contribution** · Owned end-to-end QA coverage from requirements through release. Built Playwright and TypeScript tests for signal loss, recovery timing, and fallback flows, validated REST APIs with Postman, and integrated nightly regression runs into Jenkins.
 
+### [California Center for Digital Twins — Digital Twins Hub](https://californiacenterdigitaltwins.com/)
+
+**My contribution** · Led the project from the ground up with a 12-person team. Worked directly with the project director, product owners, and stakeholders to define priorities and coordinate delivery.
+
 ### 🚀 [Artemis Mission Control API Testing](https://github.com/siromidahmadi/artemis-mission-control-api-testing)
 
 End-to-end Postman suite that registers a fresh training crew, exercises mission log creation, updates, and deletion, and verifies splashdown. The live run passed 16 assertions across 10 API requests.
