@@ -84,7 +84,7 @@ JavaScript employee directory with search and department filtering.
 
 Congratulations to the interns on their work, and thank you to the LA Tech team and the Los Angeles County Department of Economic Opportunity for supporting the cohort.
 
-[View the live demo](https://siromidahmadi.github.io/employee-directory-app/index.html#directory) · [See search and filtering](https://github.com/siromidahmadi/employee-directory-app#directory-preview)
+[View the live demo](https://siromidahmadi.github.io/employee-directory-app/index.html#directory) · [See search and filtering](https://github.com/siromidahmadi/employee-directory-app#directory-preview) · [LA Tech Rising Demo Day announcement](https://lnkd.in/p/gWzSgKvE)
 
 **Planned badges**
 ![UI smoke tests planned](https://img.shields.io/badge/UI%20smoke%20tests-planned-blue) ![Accessibility checks planned](https://img.shields.io/badge/Accessibility%20checks-planned-purple)
