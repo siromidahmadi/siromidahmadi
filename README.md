@@ -65,6 +65,12 @@ CI/CD, Excel Automation, Manual Testing, Hardware/Software Validation
 
 ## Featured Projects
 
+### 📡 [DIRECTV SignalSaver](https://www.directv.com/insider/news/never-miss-a-moment-with-directv-signalsaver/)
+
+SignalSaver helps keep viewers watching by switching from satellite broadcast to internet streaming when the satellite signal is interrupted. DIRECTV received a **2024 Technology & Engineering Emmy® Award** for the stream-switching technology behind SignalSaver. [DIRECTV award announcement](https://www.directv.com/insider/news/signalsaver-emmy-award/) · [NATAS winners announcement](https://theemmys.tv/wp-content/uploads/2024/10/NATAS-Announces-Winners-At-75th-Tech-Engineering-Emmys-1.pdf)
+
+**My contribution** · Owned end-to-end QA coverage from requirements through release. Built Playwright and TypeScript tests for signal loss, recovery timing, and fallback flows, validated REST APIs with Postman, and integrated nightly regression runs into Jenkins.
+
 ### 🚀 [Artemis Mission Control API Testing](https://github.com/siromidahmadi/artemis-mission-control-api-testing)
 
 End-to-end Postman suite that registers a fresh training crew, exercises mission log creation, updates, and deletion, and verifies splashdown. The live run passed 16 assertions across 10 API requests.
