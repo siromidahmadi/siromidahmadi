@@ -21,6 +21,8 @@ I have worked with organizations like AT&T (DirecTV), Universal Bank, and Cigna,
 
 I also serve as a **Mentor at LA Tech**, where I support students and peers in technology, career growth, and practical learning.
 
+In Fall 2026, I served as **Project Advisor for the Employee Directory App** through the LA Tech Rising Internship. Over 12 weeks, I guided a team of five interns as they built the app and prepared to present it at Demo Day.
+
 ---
 
 ## Mentorship
