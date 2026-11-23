@@ -69,7 +69,7 @@ CI/CD, Excel Automation, Manual Testing, Hardware/Software Validation
 
 SignalSaver helps keep viewers watching by switching from satellite broadcast to internet streaming when the satellite signal is interrupted. DIRECTV received a **2024 Technology & Engineering Emmy® Award** for the stream-switching technology behind SignalSaver. [DIRECTV award announcement](https://www.directv.com/insider/news/signalsaver-emmy-award/) · [NATAS winners announcement](https://theemmys.tv/wp-content/uploads/2024/10/NATAS-Announces-Winners-At-75th-Tech-Engineering-Emmys-1.pdf)
 
-[Technology & Engineering Emmy® Awards](https://theemmys.tv/tech/) · [SignalSaver award, item 10 in the official program](https://theemmys.tv/wp-content/uploads/2024/10/tech-75th-program-v2.pdf#page=4)
+[Award #10 video (MP4)](https://d36ykbigfouslv.cloudfront.net/x/f984eee901250d48e581dc4644aa0b1d/AWARD10-DEVELOPMENTOFSTREAMSWITCHINGTECHNOLOGYBETWEENSATELLITEBROADCASTANDINTERNETTOIMPROVESIGNALRELIABILITY.mp4) · [Technology & Engineering Emmy® Awards](https://theemmys.tv/tech/) · [SignalSaver award, item 10 in the official program](https://theemmys.tv/wp-content/uploads/2024/10/tech-75th-program-v2.pdf#page=4)
 
 **My contribution** · Owned end-to-end QA coverage from requirements through release. Built Playwright and TypeScript tests for signal loss, recovery timing, and fallback flows, validated REST APIs with Postman, and integrated nightly regression runs into Jenkins.
 
