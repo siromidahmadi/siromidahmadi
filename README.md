@@ -63,33 +63,13 @@ CI/CD, Excel Automation, Manual Testing, Hardware/Software Validation
 
 ## Featured Projects
 
-### 🔥 [QA Automation Framework](https://github.com/yourusername/qa-automation-framework)
+### 🚀 [Artemis Mission Control API Testing](https://github.com/siromidahmadi/artemis-mission-control-api-testing)
 
-Scalable UI automation framework using Playwright or Selenium with reusable page objects, configuration management, and reporting.
+End-to-end Postman suite that registers a fresh training crew, exercises mission log creation, updates, and deletion, and verifies splashdown. The live run passed 16 assertions across 10 API requests.
 
-**Planned badges**
-![Tests](https://img.shields.io/badge/tests-passing-brightgreen) ![Framework](https://img.shields.io/badge/framework-Playwright%20%7C%20Selenium-blue)
+### 💻 [Employee Directory App](https://github.com/siromidahmadi/employee-directory-app)
 
-### 🔗 [API Testing Project](https://github.com/yourusername/api-testing-project)
-
-API test suite using REST Assured and Postman collections with assertions, schema validation, and sample CI workflow.
-
-**Planned badges**
-![API](https://img.shields.io/badge/API-tested-orange) ![Java](https://img.shields.io/badge/code-Java-red)
-
-### 🧪 [QA Test Scenarios](https://github.com/yourusername/qa-test-scenarios)
-
-Real-world test cases, edge cases, bug reports, exploratory scenarios, and structured QA documentation.
-
-**Planned badges**
-![QA Docs](https://img.shields.io/badge/QA-Documentation-blueviolet) ![Coverage](https://img.shields.io/badge/scenarios-real--world-success)
-
-### 💻 [Mini Software Project](https://github.com/yourusername/task-manager-app)
-
-Simple app that demonstrates coding ability, clean UI, and practical problem-solving.
-
-**Planned badges**
-![App](https://img.shields.io/badge/app-portfolio-informational) ![JavaScript](https://img.shields.io/badge/code-JavaScript-yellow)
+JavaScript employee directory with search and department filtering.
 
 ---
 
