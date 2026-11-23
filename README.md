@@ -67,9 +67,15 @@ CI/CD, Excel Automation, Manual Testing, Hardware/Software Validation
 
 End-to-end Postman suite that registers a fresh training crew, exercises mission log creation, updates, and deletion, and verifies splashdown. The live run passed 16 assertions across 10 API requests.
 
+**Planned badges**
+![CI run planned](https://img.shields.io/badge/CI%20run-planned-blue) ![Schema checks planned](https://img.shields.io/badge/Schema%20checks-planned-orange)
+
 ### 💻 [Employee Directory App](https://github.com/siromidahmadi/employee-directory-app)
 
 JavaScript employee directory with search and department filtering.
+
+**Planned badges**
+![UI smoke tests planned](https://img.shields.io/badge/UI%20smoke%20tests-planned-blue) ![Accessibility checks planned](https://img.shields.io/badge/Accessibility%20checks-planned-purple)
 
 ---
 
