@@ -77,6 +77,10 @@ SignalSaver helps keep viewers watching by switching from satellite broadcast to
 
 **My contribution** · Led the project from the ground up with a 12-person team. Worked directly with the project director, product owners, and stakeholders to define priorities and coordinate delivery.
 
+[![Role: Project Lead](https://img.shields.io/badge/Role-Project%20Lead-blue)](https://californiacenterdigitaltwins.com/#/team/omid-ahmadi) ![Team: 12 people](https://img.shields.io/badge/Team-12%20people-teal)
+
+[View my Digital Twins Hub team profile](https://californiacenterdigitaltwins.com/#/team/omid-ahmadi)
+
 ### 🚀 [Artemis Mission Control API Testing](https://github.com/siromidahmadi/artemis-mission-control-api-testing)
 
 End-to-end Postman suite that registers a fresh training crew, exercises mission log creation, updates, and deletion, and verifies splashdown. The live run passed 16 assertions across 10 API requests.
