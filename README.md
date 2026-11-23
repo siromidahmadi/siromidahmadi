@@ -73,6 +73,9 @@ SignalSaver helps keep viewers watching by switching from satellite broadcast to
 
 **My contribution** · Owned end-to-end QA coverage from requirements through release. Built Playwright and TypeScript tests for signal loss, recovery timing, and fallback flows, validated REST APIs with Postman, and integrated nightly regression runs into Jenkins.
 
+**Planned badges**
+![QA case study planned](https://img.shields.io/badge/QA%20case%20study-planned-blue) ![Test coverage summary planned](https://img.shields.io/badge/Test%20coverage%20summary-planned-purple)
+
 ### [California Center for Digital Twins — Digital Twins Hub](https://californiacenterdigitaltwins.com/)
 
 **My contribution** · Led the project from the ground up with a 12-person team. Worked directly with the project director, product owners, and stakeholders to define priorities and coordinate delivery.
@@ -80,6 +83,9 @@ SignalSaver helps keep viewers watching by switching from satellite broadcast to
 [![Role: Project Lead](https://img.shields.io/badge/Role-Project%20Lead-blue)](https://californiacenterdigitaltwins.com/#/team/omid-ahmadi) ![Team: 12 people](https://img.shields.io/badge/Team-12%20people-teal)
 
 [View my Digital Twins Hub team profile](https://californiacenterdigitaltwins.com/#/team/omid-ahmadi)
+
+**Planned badges**
+![Leadership case study planned](https://img.shields.io/badge/Leadership%20case%20study-planned-blue) ![Project timeline planned](https://img.shields.io/badge/Project%20timeline-planned-purple)
 
 ### 🚀 [Artemis Mission Control API Testing](https://github.com/siromidahmadi/artemis-mission-control-api-testing)
 
